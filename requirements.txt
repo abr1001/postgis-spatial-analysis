@@ -1,0 +1,12 @@
+sqlalchemy
+psycopg2-binary
+geoalchemy2
+geopandas
+shapely
+pyproj
+fiona
+pandas
+requests
+folium
+fastapi
+uvicorn
